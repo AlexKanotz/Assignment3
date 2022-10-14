@@ -7,3 +7,6 @@ Total 4 (delta 1), reused 0 (delta 0), pack-reused 0
 remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/AlexKanotz/Assignment3.git
    c9cf7d8..d67e76a  master -> master
+
+2. 15 commits
+git rev-list --all --count
