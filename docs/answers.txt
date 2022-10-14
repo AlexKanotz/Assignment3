@@ -1,3 +1,9 @@
+Git Lab Tutorials: 10/13/22
+GitHub Account Creation: March 2022
+
+GitHub Link: https://github.com/AlexKanotz/Assignment3
+
+
 1. Enumerating objects: 5, done.
 Counting objects: 100% (5/5), done.
 Delta compression using up to 8 threads
@@ -32,3 +38,8 @@ class' attributes or methods are shared with the derived class.
 9. The Integration Manager Workflow makes push/pull requests based on their own
 public repository. The Dictator and Lieutenants Workflow uses one central repository
 and has limited access; anyone can make pull requests, but only the dictator can push to it.
+
+10. One reason why a team of 100 developers would benefit from the Dictator and Lieutenants
+Workflow instead of the Centralized Workflow is because only certain roles (dictators or lieutenants)
+are allowed to merge changes and solve conflicts. This is beneficial for a large team so that
+no one will be working on the same issue without them knowing.
