@@ -23,3 +23,8 @@ displays the current conditions of the project.
 6. git log Vehile.h
 
 7. git log --grep=file
+
+8. (1) Inheritance dervives a class from an existing class. The existing
+class' attributes or methods are shared with the derived class.
+(2) Polymorphism occurs when one instance is associated with many forms.
+(3) Encapsulation hides or restricts information from an object's data.
