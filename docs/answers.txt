@@ -10,3 +10,6 @@ To https://github.com/AlexKanotz/Assignment3.git
 
 2. 15 commits
 git rev-list --all --count
+
+3. Fri Oct 14 10:06:02 2022
+git log README.md
