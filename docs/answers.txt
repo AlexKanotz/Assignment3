@@ -19,3 +19,7 @@ and (2) is integrated with git checkout and git merge commands.
 
 5. The git log command displays the commit history. The git status command
 displays the current conditions of the project.
+
+6. git log Vehile.h
+
+7. git log --grep=file
