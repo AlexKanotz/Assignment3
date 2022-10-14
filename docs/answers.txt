@@ -13,3 +13,9 @@ git rev-list --all --count
 
 3. Fri Oct 14 10:06:02 2022
 git log README.md
+
+4. Branches are used in a Git repository to (1) point to a specific commit,
+and (2) is integrated with git checkout and git merge commands.
+
+5. The git log command displays the commit history. The git status command
+displays the current conditions of the project.
